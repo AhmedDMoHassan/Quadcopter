@@ -9,6 +9,7 @@ This repository contains a comprehensive Model-Based Design (MBD) implementation
 - Custom PD controller tuned via MATLAB SISOTOOL
 - UAV Toolbox 3D visualization and Aerospace Toolbox trajectory
 - MIL/SIL tested C code generation
+- images and video in the screenshots folder
 
 ## Technical Implementation
 ### 🧱 Model Architecture
